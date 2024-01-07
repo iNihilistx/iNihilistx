@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Always%20learning%20new%20things&center=true&width=380&height=50&color=7FFFD4">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student&center=true&width=380&height=50&color=7FFFD4">
 </p>
 
 <h1 align="center">
