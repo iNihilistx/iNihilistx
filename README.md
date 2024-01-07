@@ -16,7 +16,7 @@ On the backend, I've been focused on advancing my Python skills - converting old
 
 On the frontend, I'm devoted to progressing my abilities in HTML and CSS to build visually appealing sites. 
 
-I'm motivated to continue growing as a well-rounded developer with competencies in both back and frontend, using Python, CustomTkinter, HTML and CSS as my primary tools.
+I aim to have a great understanding of front-end development and back-end development!
 
 ## 💻 Languages:
 
