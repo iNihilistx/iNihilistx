@@ -24,11 +24,6 @@ I aim to have a great understanding of front-end development and back-end develo
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
 
-## 📚 Libraries and Frameworks:
-
-![](https://img.shields.io/badge/Framework-CustomTkinter-informational?style=flat&logo=tkinter&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Lib-Socket-informational?style=flat&logoColor=white&color=4AB197)
-
 ## 📂 Some projects:
 
 <p align="center">
