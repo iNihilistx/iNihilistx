@@ -10,11 +10,7 @@
 ## About Me
 <p align="center">
   
-I'm currently in my third year studying Computer Science at De Montfort University. My passions within tech include networking, cybersecurity, and front-end web development. 
-
-On the backend, I've been focused on advancing my Python skills - converting old command-line apps to GUI interfaces with the CustomTkinter framework. 
-
-On the frontend, I'm devoted to progressing my abilities in HTML and CSS to build visually appealing sites. 
+I'm currently in my third year studying Computer Science at De Montfort University. My passions within tech include networking, cybersecurity, front-end web development and back-end software development.
 
 I aim to have a great understanding of front-end development and back-end development!
 
