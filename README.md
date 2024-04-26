@@ -25,6 +25,7 @@ I aim to have a great understanding of front-end development and back-end develo
 <p align="center">
   <a href="https://github.com/yourusername/project1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=iNihilistx&repo=Nihilists-Minecraft-Server-Manager&theme=dark" alt="project 1"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iNihilistx&repo=RascalShell&theme=dark" alt="project 1"/>
   </a>  
 </p>
 
